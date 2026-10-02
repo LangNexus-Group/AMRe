@@ -1,0 +1,12 @@
+Class, Number
+ang : 1103
+dis : 2
+exc : 1041
+fea : 40
+fru : 1849
+hap : 595
+neu : 1708
+oth : 3
+sad : 1084
+sur : 107
+xxx : 2507

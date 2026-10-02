@@ -1,0 +1,676 @@
+Ses04F_script03_1_F012, neu, 63.6100, 65.0600 ### Who's they?
+Ses05F_script03_2_M016, ang, 99.4100, 102.2800 ### Oh, that reply has broken my heart.
+Ses04F_impro07_F016, exc, 68.8100, 73.3700 ### They have - U.S.C. has everything because U.S.C. is the best school ever.
+Ses03F_script01_2_F000, ang, 6.9026, 9.7483 ### Why did you invite her here?
+Ses03F_script01_2_F020, sad, 130.1700, 132.6600 ### You got to keep believing.
+Ses04F_script03_2_M010, neu, 57.2300, 59.5600 ### I'll have some myself, I think.
+Ses03F_script02_2_M043, neu, 435.2355, 438.3381 ### Shh.
+Ses05F_impro06_F025, sad, 200.2700, 202.1200 ### yeah.
+Ses05M_impro03_M003, exc, 13.5400, 16.1200 ### Oh my god, it was just last weekend.
+Ses03M_impro05a_M030, exc, 162.7600, 167.4425 ### Now what are you going to do about it?
+Ses01M_impro02_M019, sad, 149.0600, 152.5800 ### Do promise me you're going to take a lot of pictures.
+Ses02M_script03_2_F001, exc, 10.8543, 13.8031 ### Presents, just a trivial little broach.
+Ses03M_script01_1_M001, sad, 19.2650, 21.9192 ### He was out there when it happened.
+Ses04F_script01_1_F037, ang, 300.7700, 303.2100 ### Must you be inspired?
+Ses02M_script01_3_M033, sad, 310.1721, 332.6959 ### And I felt what you said, ashamed somehow 'cause nobody had changed at all.  It seemed to make suckers out of a lot of guys.  I felt wrong to be alive to open the new bank book, drive the new car, see the new refrigerator.
+Ses03M_impro06_M028, sad, 204.8979, 208.8892 ### Working for corporate America?  Wow.
+Ses01M_script02_2_F019, neu, 189.0700, 197.9100 ### Do you remember the first year we came here? It's about four years ago right after we got married.
+Ses03F_script03_2_M040, ang, 284.8575, 287.3500 ### Very amusing indeed.
+Ses03M_script02_1_F005, neu, 93.2403, 95.2027 ### Yes.
+Ses05F_impro01_F012, fru, 96.2500, 101.6000 ### Is there anything you can do?  Please, have some compassion.  Is there something you can do?
+Ses04M_script03_1_M029, exc, 203.4000, 205.5000 ### How -- that was a rouser wasn't it?
+Ses01F_impro04_M002, neu, 15.6400, 18.9000 ### No.  There's regular jobs on there.
+Ses04M_script01_1_F019, neu, 151.3089, 154.9400 ### Well you want to make sure your father isn't going to have --
+Ses03M_impro05a_M018, ang, 96.2400, 102.3200 ### Calm down?  It's my mother's funeral tomorrow.  I'm the one responsible for this.
+Ses02M_impro04_F000, neu, 5.1157, 6.9185 ### So how you feeling?
+Ses01F_impro07_F016, exc, 133.3125, 142.3625 ### I know. I made such a mess of it, the entire time.  The last three things I've done, I've ruined everything, I think. Mm-hmm.  Yeah.
+Ses05M_script03_1_M026, exc, 187.7200, 191.9800 ### The one where you bought that little painted wooden stake and you put it on my bed.
+Ses02M_impro07_F023, exc, 139.2800, 143.2800 ### Fair for you, Wow, oh my Gosh.
+Ses03M_script02_2_M017, neu, 151.0875, 161.6104 ### Let's see I took a shower, you were watching the news, you said hey, hey the Grunions are running tonight and I said great let's go, I feel lucky tonight.
+Ses02F_impro01_M002, neu, 20.5395, 23.2318 ### Right.  Well.  We still need it.
+Ses01M_script02_2_F035, sad, 397.6774, 403.3800 ### I know that Augie, I really do.
+Ses03M_impro04_M038, neu, 279.8800, 282.2100 ### Same difference.
+Ses05M_impro03_F018, exc, 158.1800, 159.3300 ### yes.
+Ses03F_script01_1_F052, neu, 439.9716, 444.4055 ### I don't know you, do I?
+Ses03M_script01_1_M046, sad, 407.0791, 410.5946 ### I am thinking like that.
+Ses04F_impro01_M017, fru, 111.5000, 115.6200 ### and, uh, throw it away. I need you to fill out a new form.
+Ses01F_script01_1_M014, neu, 153.8860, 155.8699 ### You know.
+Ses02M_script01_1_M003, sad, 28.1700, 33.9700 ### I don't know. When it cracked he ran into the house and cried in the kitchen.
+Ses04M_script03_1_F029, exc, 218.3100, 222.6500 ### How ridiculous. How utterly, utterly ridiculous.
+Ses04M_impro07_F022, exc, 171.1000, 173.9900 ### But, congrats on the U.S.C. thing.
+Ses02F_impro01_M001, neu, 9.8327, 15.9334 ### Okay.  Let me see here.  Um, we need--we need your original birth certificate.
+Ses05F_impro01_F019, fru, 154.9600, 159.5500 ### Except they're going tell, are you going to tell me the right line to stand in this time at least?
+Ses04F_impro05_F010, ang, 99.8500, 104.2100 ### Yeah, well that's got everything I have in it.
+Ses03M_impro05b_F025, fru, 191.1700, 196.9500 ### We already have been confirmed that it will be arriving in--uh--in about two days.
+Ses03F_script01_3_M004, neu, 49.6528, 51.9069 ### What?
+Ses05M_script01_1_F014, ang, 127.6500, 134.3100 ### The trouble is the God damn newspapers.  I mean every every week a kid turns up, missing like longer than Larry.
+Ses04F_impro07_F022, exc, 102.5800, 106.0339 ### And it's so close so you can come visit me all the time.
+Ses01F_impro05_M028, neu, 163.2500, 166.9900 ### Um, actually, I don't know. I don't know. Oh really?
+Ses03F_script01_1_F023, fru, 180.5868, 187.1282 ### Well, you better make sure your father's not- No- I'm just saying.
+Ses04F_impro03_M027, neu, 153.8600, 156.6400 ### Okay.  Fine.  So green and what?
+Ses04F_impro07_F041, exc, 204.5400, 207.2100 ### Eh, we can work that part out.
+Ses02M_impro04_M015, fru, 123.5710, 128.1600 ### maybe - maybe take up painting, I don't know, you know.
+Ses04F_script03_1_F024, exc, 168.2700, 173.7000 ### Yes, I know you did.  You threw him out of the window into the Grand Canal.  I don't think I'll ever forgive you for that.
+Ses04F_impro02_M017, fru, 201.3700, 204.5900 ### Look I'm just telling you that you don't have to go.
+Ses03F_script01_1_F014, neu, 121.1393, 124.3416 ### They do come back.
+Ses05F_script02_2_M033, sad, 337.5900, 342.5200 ### No, I know, but.  I know I don't make you happy.
+Ses03F_impro04_F004, fru, 34.6673, 36.7918 ### So I'll have to wait twenty five years-
+Ses05F_impro07_M016, exc, 72.3700, 77.5000 ### Sure, why not.  I don't know why not, I'm not doing anything I have no plans, I could live anywhere I want.
+Ses04M_impro05_M042, fru, 298.9500, 303.5300 ### But never seeing me again is not going to happen until you give me the three checks.
+Ses01M_impro05_F014, neu, 58.5000, 60.2300 ### Do you have any i-?
+Ses03M_script01_3_M023, sad, 210.0732, 216.9700 ### Nothing.  Hey, let's drive somewhere.  I want to be alone with you.
+Ses05F_impro04_F023, sad, 256.3500, 262.2000 ### I feel like I have faith and now faith is running thin because there is no money.
+Ses01F_impro05_F008, ang, 33.7800, 35.9000 ### Flight seven fourteen.
+Ses01M_script01_1_F019, fru, 179.6100, 183.7800 ### Well, that's only your business, Chris.
+Ses05F_impro05_F037, fru, 324.7900, 326.8300 ### And you have no guarantee.
+Ses02M_script02_2_F014, fru, 112.3100, 115.3200 ### For heavens sake this isn't about fish.
+Ses02M_script02_2_F006, ang, 54.8300, 59.2000 ### We just have different ideas of what this evening is supposed to look like.
+Ses04F_script01_2_M018, fru, 143.8711, 151.6842 ### What have I got to hide?  What the hell is matter with you Kate?
+Ses04M_script02_2_M000, neu, 8.9929, 11.2696 ### Well so what'd you think?
+Ses02M_script02_2_M037, sad, 322.3500, 326.0200 ### Maybe if you were with somebody else too.
+Ses02F_script02_2_M027, fru, 218.4100, 219.7400 ### A vacation?
+Ses02M_impro03_F003, exc, 23.2289, 25.5477 ### Oh, my Gosh. Well, and did
+Ses05F_impro05_M015, neu, 115.4200, 117.4300 ### Sentimental value.
+Ses04F_script01_1_M023, fru, 174.0363, 176.6195 ### She's not Larry's girl.
+Ses03M_impro02_M006, sad, 46.0650, 48.8288 ### They said anywhere from two to three years.
+Ses02F_script02_2_M036, sad, 302.9300, 305.0600 ### I'm doing the best I can.
+Ses03M_impro02_F024, sad, 157.7550, 163.9600 ### A whole year? --We're not talking about like a couple months here.  I mean this is a whole year.
+Ses05F_impro01_F023, fru, 179.5200, 181.6059 ### Fine.
+Ses04F_impro08_F025, fru, 247.6300, 249.9100 ### Okay.  Great.
+Ses03M_impro05b_F023, neu, 170.6100, 177.5300 ### Well we have some people back there that need some firing so, but I would just really appreciate--
+Ses05M_script01_1_M012, fru, 103.5200, 106.0500 ### We have to say it to him.
+Ses05M_impro07_F019, neu, 83.1200, 84.1900 ### yeah.
+Ses01M_impro05_F015, neu, 61.4800, 67.4800 ### I wouldn't let you?   I was not in Atlanta. I was not in Atlanta.
+Ses03F_script01_1_M042, neu, 356.9038, 362.9800 ### I'll get out. I'll marry her somewhere else. Maybe New York.
+Ses03M_impro02_F029, sad, 203.1600, 206.5572 ### far away and he won't be here.
+Ses05F_impro01_M011, fru, 91.3100, 99.8800 ### But, obviously I don't have time for you to stand here and waste my time in this line.  There are other people who need service behind you who are waiting for the right things.
+Ses04F_impro05_M019, fru, 166.6000, 169.3800 ### The best that we can do for you is give you-
+Ses02F_script03_2_M013, ang, 77.5600, 82.4000 ### You needn't be so grand, just because you don't happen to want any yourself at the moment.
+Ses01M_script01_1_M042, sad, 418.6034, 423.2925 ### No, you don't.  I'm a pretty tough guy.
+Ses02M_script03_2_F023, ang, 122.7984, 129.6366 ### I don't care. Do you understand? I don't care. I don't care if they bark or roll about like hoops.
+Ses03M_impro04_M037, fru, 274.6000, 277.7800 ### Yeah.  I got eighteen hundred on my S.A.T..
+Ses04F_script02_1_M034, exc, 235.5012, 245.0500 ### Out there someplace there's this huge mass of silver fish heading this way.  They don't know why.  We don't know why.  It wasn't a decision.  They didn't take a vote.
+Ses02M_script03_2_M040, ang, 217.1224, 219.7817 ### Amanda, listen. Listen.
+Ses04M_script02_2_M018, fru, 141.2000, 144.8084 ### uh, taking the car out of the gara- out of the garage.
+Ses03F_script02_2_F026, sad, 234.9486, 237.7436 ### No.
+Ses01F_script01_1_M035, fru, 352.1016, 356.8800 ### I've been a good son for too long, a good sucker.
+Ses01M_script03_1_M014, sad, 72.2700, 74.5800 ### Darling, don't say that.
+Ses05M_script02_2_M013, fru, 121.2400, 130.2900 ### I'm trying to work this backwards.  But I can't seem to pinpoint the time where everything went wrong here.  Okay, so --
+Ses05F_impro08_M008, fru, 72.8700, 74.3100 ### I got it in the mail.
+Ses04M_impro06_M005, sad, 63.9400, 69.0400 ### I just -- it's just not fair.
+Ses04F_impro07_M026, neu, 114.5300, 120.7200 ### You'd have to, like go somewhere else, and, you know, we would be apart, and that would suck.
+Ses05F_impro01_F016, fru, 136.7600, 140.5500 ### No, I'm not, I'm sorry.I'm not stupid.
+Ses02M_script01_3_M025, sad, 216.3450, 220.2621 ### Well, I lost them.
+Ses03M_impro08a_M006, neu, 68.6402, 77.5530 ### Um- I think part of it has to do with the network being down.  It's been having some trouble the last few weeks--
+Ses02F_impro02_F003, sad, 46.8146, 49.4112 ### I don't think so.
+Ses01F_impro02_M009, sad, 114.1775, 117.8500 ### I just don't see why it has to be you.
+Ses04M_script03_2_F017, ang, 104.0500, 107.0655 ### It's become a habit with you.
+Ses01M_script01_1_F041, ang, 410.0300, 412.8900 ### Well, you don't think like that.
+Ses04M_impro02_F022, fru, 245.8500, 249.4100 ### Well it doesn't seem like you're that bothered by it.
+Ses01F_script02_1_F019, fru, 189.9300, 191.5900 ### Oh Augie
+Ses01F_script03_1_F012, exc, 92.1400, 93.6600 ### Who's they?
+Ses01M_script02_2_F026, sad, 276.6600, 278.5712 ### No.
+Ses03M_impro05a_M024, ang, 138.5675, 140.9900 ### What?  Are you kidding me?
+Ses04F_impro01_M009, fru, 71.4500, 74.7000 ### What I need you to do is go to the back of the line,
+Ses04M_script01_1_M013, ang, 105.1900, 106.9187 ### We've gotta say it to him.
+Ses01M_impro07_F027, exc, 156.1800, 167.8000 ### I am not saying you should be. I'm not no. I think it's great I think you should be incredibly proud yourself especially because you're going to U.S.C for free for doing it. For free.
+Ses03F_impro08_F022, neu, 131.8200, 133.9300 ### I don't know, sir.
+Ses05F_impro07_F034, exc, 162.8100, 164.0400 ### yeah.
+Ses04F_impro05_F015, ang, 160.5100, 170.1800 ### No.  No.  I don't know. You know what? I'm going to call my lawyer. You know what?  That's what I'm going to do.  I'm going to call my lawyer and have him get down here and explain to you that this is an unacceptable option.
+Ses01M_script01_1_M011, fru, 107.9600, 118.7275 ### I don't want to argue with him, it's just for God's sake it's time he realized that no one believes with him any more.
+Ses02F_impro05_F014, fru, 179.5400, 182.6500 ### But fifty dollars isn't going to get me anything.
+Ses04F_impro04_F029, fru, 225.2600, 231.6300 ### I did start somewhere.  I worked my way up.  I'm not going to start at the bottom again.
+Ses02M_script03_2_F003, neu, 24.2956, 28.6373 ### No I didn't, you worked the whole thing up in your jealous imagination.
+Ses04M_impro08_M018, fru, 162.8746, 169.7300 ### Okay.  You know what?  I just don't feel like doing this anymore.  Um, you can have all the money back, two hundred dollar, right now.
+Ses05F_script03_1_F011, neu, 63.9400, 66.0700 ### Meaning exactly that.
+Ses01F_impro05_M014, neu, 75.0300, 76.4800 ### No, no.
+Ses02F_script01_1_M044, neu, 350.0500, 353.4300 ### No, you don't.  I'm a pretty tough guy.
+Ses04F_impro08_F012, fru, 176.2200, 179.3800 ### Okay, sir.  They- they have to-
+Ses04M_impro06_F010, sad, 147.1800, 150.3400 ### I mean, we can be grateful for that.
+Ses05M_impro01_F018, fru, 117.6100, 123.9600 ### Sir, don't patronize me.  I can't make an exception.  I don't- I don't have the power to do that.  It's a different form.
+Ses02M_script03_2_M024, neu, 129.4014, 133.6165 ### Tell me, did you see much of Peter Burden after our divorce?
+Ses01M_script01_1_F006, sad, 56.6816, 58.8948 ### [BREATHING]
+Ses04M_impro08_F018, fru, 157.4243, 163.4661 ### I have to wait a few weeks for people come go through my things to get the money back that I didn't spend?
+Ses02M_impro03_F011, exc, 74.9550, 77.0704 ### Oh, You did not.
+Ses05M_script02_1_M024, fru, 228.5500, 230.1800 ### For real?
+Ses05M_script03_2_F006, neu, 39.2300, 42.4900 ### Well it gave him a lot of pleasure and it didn't hurt me.
+Ses02M_impro07_M015, exc, 74.2100, 77.7582 ### You're half the reason I'm going. [LAUGHTER]
+Ses03M_impro08a_F025, fru, 183.8875, 188.0359 ### you need to fix my phone.  I don't care what you have to do--
+Ses04F_script01_2_F005, ang, 40.5402, 43.7100 ### What's going on here, Joe?
+Ses03M_impro08a_F007, fru, 61.8767, 69.4487 ### I don't, I don't know what the problem is.  That's what I want you guys to...why is my service not turned on?  And I paid my bills on time.  I don't understand.
+Ses03M_impro08a_F009, fru, 81.2225, 92.2433 ### That is I am paying you guys for service and I'm not getting any service.  I get, I get just dropped calls all the time and now it's completely not working at all.  I can't even call out, nine one one probably wouldn't even work.
+Ses04M_impro07_M015, exc, 102.2700, 110.7400 ### And, uh, it's just really exciting.  I- You know, I'm -- just I want to- I want to share this special happy moment with you. It's awesome
+Ses03F_impro07_M019, exc, 104.9378, 109.3828 ### Who-whooooo. Miss Acti- Acting Pants.
+Ses05F_impro07_F033, exc, 158.1200, 160.0200 ### [LAUGHTER]
+Ses01F_impro02_M011, sad, 133.8800, 137.1000 ### Yeah.
+Ses05F_impro03_M011, exc, 36.2700, 41.5691 ### Thirty nine, yeah.  I can't believe it.  So you broke our pact. Thanks a lot.
+Ses02M_impro01_F021, fru, 137.2469, 138.7534 ### Well, maybe you should
+Ses01M_script03_2_M022, ang, 165.1863, 171.7100 ### You know, it's a pity you didn't have any more brandy. It would have made you just a little less disagreeable.
+Ses01F_script02_1_M016, exc, 94.6400, 100.4000 ### God, I'm so excited, I'm like a kid.  I can't believe I got out of the house with my fly zipped up.
+Ses04M_impro05_M021, fru, 138.1800, 144.9500 ### You don't understand. You don't understand, actually.  You don't understand because it was my luggage that was lost.  Okay.
+Ses01M_script03_2_F026, ang, 215.0200, 218.7700 ### You're quite insufferable, I expect it's because you're drunk.
+Ses05F_impro04_M022, neu, 261.8500, 265.7900 ### Well, exactly.  Money is not everything.
+Ses05F_impro07_F038, exc, 177.2100, 179.1400 ### Woo-
+Ses05F_script02_1_M010, exc, 88.7598, 100.1973 ### I didn't even think to bring a six-pack.  A six-pack would be just the thing right about now. I can't believe I forgot.  And look at kid, I am surprise I make it out of the house about flies it.
+Ses01F_impro07_M017, exc, 116.2800, 119.8507 ### Yay...School's fun.
+Ses02F_impro08_M000, fru, 6.2070, 8.1700 ### Yeah, hello.
+Ses04M_script01_2_M015, fru, 113.6300, 115.5000 ### Calm yourself.
+Ses05F_script01_1_M012, fru, 106.7400, 108.9400 ### We have to say it to him!
+Ses01M_impro02_M017, sad, 131.0600, 137.7400 ### I know I have a good... I have a really good group of guys with me.
+Ses01M_impro01_M031, ang, 149.1800, 151.8500 ### Why, because I'm sick of talking to you.
+Ses01F_script02_2_F013, fru, 113.3900, 115.7800 ### You don't understand anything I am saying.
+Ses05F_script01_3_F022, sad, 247.4448, 249.2376 ### how many?
+Ses04M_impro01_M013, fru, 95.3800, 99.6000 ### Come on.  Will you please?  I just --I look, I  cannot-- --just if I --
+Ses05F_impro04_F044, neu, 395.4700, 396.9500 ### Thank you.
+Ses03M_script03_2_M005, ang, 42.1416, 46.0325 ### You let him kiss you. You said so.  What of it?
+Ses01F_impro05_M009, neu, 36.9100, 42.7600 ### Yeah. Yeah, I don't see- I don't see any--
+Ses01M_impro05_F027, neu, 142.6500, 144.1200 ### What was that?
+Ses01M_script01_2_F012, ang, 136.6100, 145.6000 ### Believe with me Joe, you got to believe. Only last week a boy came back missing longer then Larry you read it yourself.
+Ses03M_script01_2_M004, neu, 33.7315, 37.4646 ### Who said he even thought about that?
+Ses02M_script01_1_M041, sad, 323.6900, 326.5200 ### Yes, on this I would.
+Ses02F_script01_1_F032, fru, 252.9100, 261.3100 ### I don't want a diagram.  Umm-- He thinks he's coming back, Chris.  You marry that girl and you're pronouncing him dead.
+Ses01F_impro02_F013, sad, 127.8200, 133.9455 ### You'll videotape everything, yeah?
+Ses05F_impro07_F005, exc, 14.9700, 16.7000 ### I'll stay in town.
+Ses04F_impro05_M020, fru, 169.7300, 171.0300 ### Ma'am.
+Ses05F_impro05_M019, neu, 149.4600, 150.5700 ### Well,
+Ses01M_script03_2_F027, ang, 220.2500, 222.7000 ### You always had a weak head.
+Ses04M_script03_2_F023, ang, 133.3400, 135.6700 ### Oh, be quiet.
+Ses01F_script01_2_F006, ang, 52.0300, 56.4200 ### She is not his girl.  She knows she's not.
+Ses03M_impro05b_M018, fru, 134.7200, 142.8700 ### If not, I'm going to get your name, I'm going to talk to your boss, whoever...I'm never going to fly...my business is never going to fly Delta again.
+Ses03M_script03_1_M004, exc, 28.4300, 30.1525 ### I don't care then.
+Ses05F_impro01_M019, fru, 151.7151, 157.7300 ### There is a strict system here.  You need to wait in the right line for the right thing.  This is the line for registration.
+Ses05F_impro04_M001, neu, 25.9600, 31.0200 ### Well, of course not, but what are you going to do if you move back home?  Are you going to be able to find a job there?
+Ses04F_impro03_M036, exc, 201.5600, 205.7800 ### Well this is really exciting.  I mean- I just- I couldn't be happier right now.
+Ses01F_script03_2_M031, neu, 237.2400, 241.4997 ### This is no time of year for Tunis.
+Ses03F_script01_1_F021, neu, 165.9165, 170.9252 ### Well, that's only your business, Chris.
+Ses05M_impro05_F004, neu, 29.8300, 32.8600 ### So, within the country, though? umm
+Ses04M_impro06_M001, sad, 22.1200, 33.7100 ### I know.  I just -- I don't know.  It's just weird because you have somebody who's, you know,
+Ses02F_impro01_F000, neu, 5.3661, 9.6150 ### Hi. Excuse me.  Um, I'd like to put in this application for my registration.
+Ses04M_script02_2_F025, ang, 221.4700, 222.8600 ### No.
+Ses04F_impro07_M043, exc, 193.5600, 200.9000 ### Right, so we'll go there and then- and then we'll get some ice cream and maybe we'll go putt-putt golfing.
+Ses01M_impro02_M003, sad, 27.1100, 29.8250 ### First thing tomorrow morning.
+Ses04F_impro05_F019, ang, 183.0000, 192.2400 ### Okay.  Well I want to call whoever you report to, whoever your boss is because I have had enough with this airline and I am finished waiting for my fifty dollar gift certificate.
+Ses05M_impro04_F026, neu, 191.9200, 199.0000 ### Sorry.  So, let's see.  What else?  What's available? What? Um.  Hmm.
+Ses01M_impro06_F010, neu, 101.5000, 105.8675 ### Oh. Really fast? Oh.
+Ses04M_script03_2_F045, ang, 278.3300, 279.0900 ### Stop.
+Ses01M_impro06_M002, sad, 25.7888, 30.0906 ### You didn't even hear?
+Ses05F_script01_3_M023, sad, 232.5647, 236.2579 ### It's- It's mixed up with so many other things, I-
+Ses03M_impro08a_F013, ang, 110.2000, 117.8182 ### You sign the contract and then down the line the phone doesn't work and you're stuck, you can't go to a new...no.  No contracts for me.  You give me a new phone.
+Ses05M_script03_2_M045, ang, 260.3400, 266.3500 ### You're a wicked little vampire.  And I pray to God I never set eyes on you again as long as I live.
+Ses04F_impro05_M008, fru, 98.6700, 101.6500 ### you're getting very excited right now
+Ses01M_script03_1_F007, exc, 52.0100, 53.2000 ### [BREATHING]
+Ses05F_script02_1_M011, exc, 100.2500, 108.8959 ### [LAUGHTER] I wonder if they can hear me talk or if they can feel the vibration in the sand when we are moving around
+Ses03M_script02_2_M029, ang, 283.1030, 293.0584 ### Do you think that this is what I had in mind?  That four years down the line that we'd get married and come to the beach and argue with each other over fish?  No.
+Ses02F_impro07_F027, exc, 166.9600, 168.2600 ### And you'll be like...
+Ses01M_script02_2_M012, fru, 108.3575, 109.8025 ### Why not?
+Ses05M_impro06_F002, sad, 25.3800, 28.0200 ### Oh, I'm so sorry
+Ses01F_script01_1_F040, fru, 389.5400, 392.9042 ### Well you don't want to think like that.
+Ses04F_impro04_F009, fru, 107.0400, 110.7700 ### Nothing I'm trying seems to work. Just-
+Ses03F_script01_1_F022, fru, 171.9653, 177.5761 ### Well, it is. I mean, what do you want me to do? You're grown up; you know what's going on in your mind.
+Ses02F_impro04_M017, neu, 245.9700, 248.0000 ### Well, you've gotta live.
+Ses05F_impro05_M036, neu, 271.5600, 278.3100 ### I'm sorry, ma'am, there's nothing else I can do.  My hands are really tied here.  I really wish there was something else I could do for you.
+Ses01M_script01_3_M034, sad, 374.5675, 388.8175 ### I thought I would change everything you know, and I got back here and it was- it was like nothing had changed at all...
+Ses04M_script03_2_F010, ang, 63.3200, 65.0737 ### What of it?
+Ses03F_script02_2_M034, fru, 329.5534, 333.0438 ### Well, I'm doing the best I can.
+Ses04F_script03_2_F030, ang, 184.7900, 187.5200 ### Why?
+Ses05F_impro05_F027, fru, 244.3400, 252.4600 ### Right, but if I'm riding a bus, I don't need to buy luggage insurance that the backpack I take on is going to get to my destination with me.
+Ses02M_impro01_M014, fru, 97.1601, 99.5400 ### This is ridiculous. Come on
+Ses03M_impro05b_F031, fru, 233.0700, 235.3100 ### eh- we actually--
+Ses03F_impro06_F017, sad, 114.1010, 116.9491 ### So talented.
+Ses02M_impro07_M017, exc, 85.7900, 89.2000 ### You know what I mean, I bet the home games, are just like nuts you know.
+Ses03F_script01_2_M001, neu, 15.3375, 18.7450 ### Well, maybe, maybe he just wanted to see her.
+Ses03F_script01_2_M010, fru, 100.2250, 101.8700 ### Calm yourself.
+Ses02F_impro07_F035, exc, 195.3825, 199.0482 ### I know. I know. So fun.  I can't wait.
+Ses01F_impro04_F017, fru, 102.7800, 105.4150 ### Why?  It's a piece of paper.
+Ses05M_script03_1_F024, exc, 197.5500, 203.6500 ### I know you did.  You threw it out the window into the Canal below.  I don't think I'll ever forgive you for that.
+Ses05M_script01_1_F001, sad, 10.9500, 16.9600 ### When?  I was the first one up.  He was still in bed.  How could he have seen it?
+Ses01F_script01_2_M012, fru, 109.3800, 111.6500 ### [BREATHING]
+Ses03F_script01_3_F003, sad, 26.7750, 30.6091 ### No. I'm not sorry. It's-
+Ses01F_impro02_F020, sad, 186.5800, 191.1100 ### And I want lots and lots and lots of pictures.
+Ses03F_impro04_M018, neu, 162.2100, 166.6050 ### Go back to school. You know? Another three more years, get your master's.
+Ses05M_impro01_F016, fru, 106.9700, 110.5800 ### They're different forms, we process them all different-
+Ses03M_script02_2_M028, ang, 279.8909, 283.0347 ### Welcome to the human race.
+Ses03F_script03_1_M007, exc, 38.6900, 43.4200 ### things that should matter dreadfully don't seem to matter at all when one's happy, do they?
+Ses01F_impro06_F012, sad, 117.0700, 126.0400 ### I don't know.  It just, like, I felt so bad because I shouldn't have done it.  I don't know.  Whatever.
+Ses03M_impro05b_F003, neu, 23.9000, 26.1500 ### Okay.  Let's look up here
+Ses03F_impro06_M001, neu, 15.9759, 19.0242 ### We're all going to miss him.
+Ses05M_script02_2_M024, ang, 256.4200, 270.4100 ### Well, welcome to the human race.  Do you think this is what I had planned?  Do you think that when I proposed that I had this great fantasy going that four years down the road we would end up arguing on the beach over some fish?
+Ses05M_script01_1b_M008, fru, 80.9300, 87.5700 ### I don't want to argue with him.  But it's time that he knows that nobody else believes that Larry's alive. I mean
+Ses04F_script01_1_F031, fru, 254.0200, 260.9100 ### I don't want a diagram.  He thinks he's coming back, Chris.
+Ses01F_impro04_M018, neu, 111.6600, 117.7250 ### I know.  Okay.  Well, um. Maybe--
+Ses02M_script02_2_M035, sad, 286.0900, 288.2300 ### No, I know. Me neither.
+Ses05M_script01_1_M037, ang, 327.1500, 331.0700 ### Well, you help me stay here.
+Ses04M_impro05_M026, ang, 187.5900, 191.5200 ### but I need to speak to somebody who can make the three check thing happen.
+Ses05M_impro04_F018, neu, 165.6200, 166.8400 ### Okay.
+Ses04M_impro07_F026, neu, 199.1000, 201.6200 ### Okay.  Well that's cool, too, but like--
+Ses04M_script02_2_F006, ang, 51.7000, 58.1800 ### Goddamn it, Augie, don't ask me that.  I hate it when you ask me that.  You always ask me that.  It's insulting.
+Ses02M_script01_1_F027, ang, 229.7400, 233.0900 ### I just don't see why it has to be Annie.
+Ses04F_impro05_M012, fru, 122.7600, 124.4900 ### We're just talking over each other.
+Ses01M_impro07_F021, exc, 125.3100, 132.5725 ### do they have a--is it a co-ed softball team?  I mean... Really? You know, I didn't even know that they have that.
+Ses01M_impro06_F000, neu, 10.0955, 12.6800 ### You okay?
+Ses05M_impro07_M018, exc, 71.1200, 76.1300 ### I just want to be really close to things, you know.  I know it's not exactly the best neighborhood in the entire world. But uh-
+Ses01F_script02_2_F000, neu, 5.8300, 8.3081 ### That's the wind.
+Ses03M_impro02_F036, fru, 243.5270, 248.2228 ### You're smart.  You could go back to school--
+Ses02F_script03_2_F036, ang, 205.6900, 209.7500 ### You are far too temperamental.  Try to control yourself.
+Ses03F_script03_2_M001, ang, 16.5000, 20.4600 ### I knew nothing of the sort. You took presents from him.
+Ses05M_impro01_F020, fru, 127.4900, 130.6000 ### Sir, you're gonna have to go stand in the other line.
+Ses02F_impro01_F004, fru, 32.8981, 37.8800 ### I mean it just says that you need some form of identification, but it doesn't say what kind of identification.
+Ses05M_impro07_M019, exc, 76.9900, 83.4600 ### I don't- you know ,I feel the same way, you know what I mean.  And everybody says a lot of other crap you know, they don't know what they are talking about anyway.
+Ses05M_script03_1_M006, exc, 32.3100, 35.2500 ### Oh, what shall we do if they suddenly walk in on us.
+Ses03M_script02_2_F024, sad, 236.2191, 239.8641 ### Rather not hope for something.
+Ses01M_impro02_M015, sad, 115.0275, 117.3100 ### You're going to be fine.
+Ses01F_script01_3_F022, neu, 200.9200, 206.2900 ### Like Larry's brother.  Do it like you, Chris.
+Ses01F_impro03_F022, neu, 99.7775, 102.0300 ### Fifty bucks. Mmhmm.
+Ses03F_script01_1_F036, fru, 292.2561, 298.1406 ### That's a good answer, but it doesn't answer anything.
+Ses05M_script02_1_F016, sad, 227.0200, 228.7500 ### I'm just not.
+Ses02F_script03_2_M012, fru, 70.5000, 76.5400 ### You can hardly call three liquor glasses in a whole evening going on and on and on.
+Ses02M_impro01_F001, neu, 10.3710, 11.6114 ### Sure, um
+Ses03M_impro05a_M020, ang, 113.5900, 116.3000 ### What is the matter with you?
+Ses05F_impro04_M024, neu, 281.8100, 285.9400 ### You know I would never let that happen.  I wouldn't let that happen.
+Ses02M_impro06_F009, sad, 145.7747, 148.7923 ### She really cared about you, you know.
+Ses03F_impro06_M008, sad, 177.3594, 179.8070 ### What was her name?
+Ses03M_impro01_F020, fru, 115.8460, 117.4762 ### Really?
+Ses05M_impro04_F006, neu, 71.9100, 78.5000 ### No.  I'm just working in restaurants and stuff. But, I'm also trying to audition and what not.  So, it's --
+Ses01M_script02_1_M007, neu, 59.4500, 63.6475 ### Flashlight the silver one.  There's only one isn't there?
+Ses01F_script02_1_M027, fru, 188.8800, 190.4700 ### Yeah they do.
+Ses05F_impro08_M007, ang, 65.8100, 69.0300 ### Like I know I paid last month, but it hasn't been paid and you charged me a late fee.
+Ses04F_impro02_M024, sad, 267.3500, 274.1900 ### I don't know how else to leave it.  What, do you want me to lie to you?
+Ses02M_impro05_F025, neu, 211.7643, 217.8594 ### Well because lots of people get their baggage lost and we don't want to have false claims or anything like that so we have
+Ses03M_script01_2_M016, ang, 164.6318, 166.8450 ### Look at you, you're shaking.
+Ses05M_script01_3_F020, sad, 211.1600, 213.3700 ### You have to tell me.
+Ses05F_impro04_M019, fru, 226.2100, 230.4300 ### I understand, but you know what, you've been negative for three years.
+Ses01M_impro06_F020, neu, 178.3706, 181.4300 ### It gets better.
+Ses05F_impro05_F045, fru, 384.9600, 386.9000 ### Thanks.
+Ses03F_impro01_M006, fru, 49.9350, 51.5625 ### It's not right.
+Ses03M_impro05b_F024, fru, 186.0600, 187.8600 ### Okay sir.  I'm sorry you can--um-
+Ses05M_impro08_F016, neu, 126.4500, 127.7600 ### Okay.
+Ses05M_impro08_M000, neu, 2.7277, 5.3600 ### D.S.L. Extreme, can I help you?
+Ses05M_impro01_F008, fru, 66.1000, 70.3800 ### You- You can ask her if you want, but she's busy and she probably won't answer you.
+Ses02F_script02_2_M002, neu, 11.4400, 15.5300 ### It certainly is not.  It's slightly exaggerated scientific fact.
+Ses05F_impro03_F043, exc, 207.4600, 209.7600 ### I am very excited
+Ses05F_impro06_F020, sad, 157.2900, 158.6900 ### Thanks.
+Ses01F_script01_2_F012, ang, 108.2000, 122.3400 ### Because if he's not coming back, I'll kill myself.  Oh laugh, laugh all you like but why does this happen the very night he comes back.  She goes to sleep in his room and his memorial breaks in pieces.  Look at it, Joe, look.
+Ses05M_script01_3_M029, sad, 263.4100, 278.5700 ### I know it's it's just a little thing but that's just the kind of guys I had.  They didn't die.  They killed themselves for each other.
+Ses04M_impro03_F004, exc, 58.0300, 59.7800 ### Did she cry?
+Ses02M_impro06_M001, sad, 18.6500, 23.1000 ### yeah, I mean, you know, it was a -
+Ses02M_impro03_M000, exc, 3.1431, 5.5530 ### Oh, you're never going to believe it.
+Ses05M_script01_1_F029, fru, 263.7700, 282.0200 ### No.  I don't want a -- look, your father thinks he's coming back, Chris.  You marry that girl and you're pronouncing him dead.  Now, what's going to happen to your father; do you know?  Because, I don't.
+Ses04F_script02_1_F007, ang, 100.5000, 102.8027 ### It's after eleven let's go home.
+Ses02M_impro07_M021, exc, 100.0300, 105.2100 ### Right I know, like you, it won't hurt, I mean national champions last year, wow, you know
+Ses02M_impro07_F007, exc, 43.1601, 50.6653 ### Oh my Gosh. I thought there was like, maybe going to be some, like I don't know if you are going to get in or not, so I'm really glad that you did.
+Ses02M_impro06_F005, sad, 98.4900, 100.0300 ### Yeah.
+Ses05F_script02_2_M023, fru, 239.3574, 242.7100 ### What? What You want a divorce?
+Ses02F_impro07_M002, exc, 19.0400, 20.8700 ### Oh, no way.
+Ses04M_script02_1_M015, neu, 118.5500, 120.8200 ### That's my point, too.
+Ses05M_impro01_M008, fru, 55.5000, 61.3400 ### Well then, when I showed them my I.D. before and I said I had to get a new I.D, why didn't they tell me to fill out the right form?
+Ses03M_script02_2_M035, fru, 344.6125, 347.4575 ### I'm trying to do the best I can.
+Ses05F_impro02_F031, sad, 285.7900, 289.1700 ### I'm going to miss their first words.
+Ses05M_script02_2_M016, neu, 206.4500, 217.6200 ### It was in the car, right?  When we were passing Knickerbocker Liquor Locker, you said, Let's stop and get champagne. and I said that times a wasting or something like that, right?  You wanted it to be like it was before, right?
+Ses03F_impro01_M004, neu, 36.7475, 39.1200 ### She- she probably doesn't even work here.
+Ses05F_impro04_F011, fru, 118.9500, 121.7100 ### This is humiliating.
+Ses01F_impro04_F007, fru, 50.1100, 54.3100 ### Yeah.  I saw a posting at the theatre.
+Ses01M_script03_2_F031, ang, 258.3000, 259.5200 ### Why?
+Ses01F_script01_1_F042, ang, 406.3900, 409.4600 ### Just don't think like that.
+Ses04F_impro07_M031, neu, 135.0500, 137.8400 ### Oh, that's right. Okay, I see. Right, right, right.
+Ses02F_impro06_M005, neu, 43.3400, 50.1000 ### It's good, you know.  you know It hurts I know.  I know what it's like to lose someone like that.
+Ses03M_impro02_M028, sad, 176.9098, 180.9092 ### Well that's the kind of work I'm in honey.
+Ses04M_impro01_M008, fru, 64.1403, 72.1900 ### or I can't go behind there- you can go behind this person's desk and just grab the form. So if you could just do that; that would help me out a lot.
+Ses05M_script02_1_M002, exc, 40.6900, 56.7800 ### This is great.  How are you doing?  Oh, no.  Oh, do you know what I did?  I forgot the flashlight.  How could I be so stupid?  I forgot the flashlight.
+Ses04F_impro07_M016, neu, 69.2100, 71.3200 ### they have that as a major?
+Ses02F_impro06_M000, neu, 5.7967, 8.0783 ### Hey, a what's up?
+Ses01F_script03_2_M027, ang, 197.9100, 212.7500 ### That's very interesting Amanda. How about a child of four?  Or a child of six?  Or a child of nine? We can get a good little conversation going on about this, you know, intemperate tots.
+Ses04F_script02_2_M028, fru, 262.3800, 263.9200 ### A vacation?
+Ses05M_impro08_M008, neu, 69.6400, 77.4800 ### Okay.  Does your D.S.L. cable, you know, travel a long distance by any chance? - Does it go through any windows?  I mean, is it --
+Ses05M_impro01_F011, fru, 77.8100, 80.1400 ### You can waist as much as you want
+Ses05M_script03_2_F042, ang, 259.4500, 260.4100 ### Beast
+Ses03F_impro05_F017, ang, 158.9500, 162.1175 ### Well, get- I want the C.E.O. then.
+Ses01F_impro04_M008, neu, 55.2100, 56.3300 ### Yeah.
+Ses04M_script01_1_F031, fru, 243.3600, 244.9800 ### Alright, then, mom.
+Ses01M_script01_1_F031, sad, 299.1800, 308.3500 ### He thinks he's coming back, Chris.  You marry that girl you're pronouncing him dead.
+Ses03M_impro03_M002, exc, 7.5288, 14.0755 ### [LAUGHTER] Guess who just got hitched?
+Ses04F_impro06_M001, sad, 30.9000, 55.2600 ### When I was seven, my- my grandmother died and I really- I don't know, I mean it was really hard to let go but the important thing is- is that you do let go and your realize that, you know, they- you know, they- this person had fun while they were- while they were here and, uh, you know, you work- you work through it.
+Ses05F_impro03_F008, exc, 26.0600, 30.7700 ### Right, I thought I would be way older too. I thought I would be I be at least thirty something.
+Ses02F_script02_2_M028, fru, 219.7500, 226.5400 ### A new carpet?  A poodle?  Ice cream?  Back rub?  A suicide pact?  What?  What?  Carla, what the hell do you want?
+Ses04M_script02_2_F022, fru, 214.9800, 216.5281 ### No.
+Ses02M_script01_1_M027, neu, 210.1900, 215.6700 ### Well, if she does then that's the end of it. From her letters I think she's forgotten him.
+Ses03M_impro07_M020, exc, 115.6500, 121.0500 ### And tonight my parents want to take me out to sushi and they said I could bring you.
+Ses03F_script01_2_F013, ang, 87.1275, 95.5300 ### Nobody in my house better ever dare-dare to challenge her faith. Maybe strangers, but not his father, not his brother.
+Ses05M_impro08_M017, neu, 133.4700, 143.1800 ### Okay Okay, And Um- letters and numbers and stuff.  Uh- Can you - Can you just type in IP address search? And hit enter.
+Ses03M_impro05b_F006, neu, 39.7300, 40.7700 ### Yes.
+Ses02M_impro02_F004, sad, 33.4566, 37.3201 ### It's dangerous; I mean how can you make sure that you'll
+Ses05F_script01_1_F014, fru, 128.5500, 138.3700 ### To you it is, and to me, but not to your father.  Now look, you can talk yourself  blue in the face, but there's no body, and there's no grave, so where are you?
+Ses01F_script02_1_M011, neu, 58.8800, 65.6016 ### Of course, our flashlight.  What's yours is mine.  Me flashlight es su flashlight.
+Ses04F_script01_1_M042, fru, 330.1928, 333.8400 ### Then you help me stay here.
+Ses05M_impro03_F026, neu, 194.2100, 196.2700 ### Are you going to start right away?
+Ses02F_impro05_M000, neu, 8.3000, 12.9300 ### Um, okay, it didn't--didn't come out on the carrousel--
+Ses01F_script01_2_M014, fru, 124.1625, 126.3600 ### Okay. Calm yourself.
+Ses03M_impro08b_F021, neu, 192.1200, 196.9100 ### Alright. Well-  I guess - I guess that's okay but,
+Ses03M_impro08b_M011, neu, 123.0000, 130.1900 ### So we'll send it- And we'll give you, how about a free year's service?
+Ses05M_script01_2_F015, ang, 123.4600, 126.4400 ### You above all have got to believe.
+Ses03F_impro04_M008, neu, 64.8850, 71.7132 ### You are, you're going to class, you're learning, you're getting better. When you finally get that role you're going to be prepared.
+Ses05F_script01_2_F010, ang, 87.9900, 91.1800 ### I want you to pretend like he's coming back!
+Ses04F_impro08_M028, fru, 226.0800, 229.7100 ### of getting my sixteen dollars back. It fine, no honestly.
+Ses04F_impro01_F004, ang, 40.2700, 43.2800 ### I did exactly what they told me to do.
+Ses02M_script02_1_M003, exc, 19.1100, 20.5400 ### How you doing?
+Ses04M_script03_1_F027, exc, 204.9900, 207.7500 ### That was the first time you ever hit me.
+Ses04M_script03_2_F018, fru, 110.5500, 112.4300 ### Oh, don't be so stupid.
+Ses05M_impro06_M002, sad, 27.4600, 33.6700 ### The end, he's been sick for awhile.  He had cancer.
+Ses03F_impro08_F003, neu, 24.9300, 29.7500 ### Sir, please calm down.  There's no reason to use profanity like that.  It's not-
+Ses05F_script01_1_M015, fru, 148.2000, 151.9200 ### All right, All right mom.  Listen!
+Ses02M_script01_1_M019, fru, 145.8700, 148.6100 ### No it's not only my business.
+Ses04F_impro02_M026, sad, 289.8700, 299.6000 ### Well I can't be okay with it the same way you can't not go.  It just doesn't work that way.
+Ses05F_impro08_F014, neu, 95.3500, 100.5500 ### Okay so, I'll just look it up and you know see what's going on, maybe we can...
+Ses04F_impro04_F021, fru, 170.2300, 173.0700 ### Yeah, I- I make my
+Ses01F_script03_2_M004, neu, 34.2100, 38.4400 ### You went out of your way to torture me over Peter Burden.
+Ses04M_impro06_F015, sad, 241.0200, 246.6700 ### When's the service? Can- can we help?  Is there anything, I mean--
+Ses03M_impro01_F008, fru, 52.7678, 56.5573 ### You need to go back over there and fill it out again.
+Ses03F_impro07_F016, exc, 89.9498, 97.2632 ### [LAUGHTER]. I'm so excited, Joe. Oh, man, I-- And I got in--I got into the school of theatre, so it's like-
+Ses04M_impro05_F002, neu, 16.7800, 18.5700 ### I'm sorry.
+Ses03F_impro04_F026, fru, 173.1325, 174.2525 ### [BREATHING]
+Ses05F_impro07_F007, neu, 24.0100, 27.7700 ### Well, I don't want to, I don't want to live with my mom.
+Ses01M_impro04_F007, neu, 74.2100, 77.5300 ### ...has anyone ever just said anything like that to you before?
+Ses01M_impro02_M010, sad, 79.1800, 81.8600 ### ...we're all shipping out.
+Ses04F_script02_1_F017, ang, 189.9100, 191.9113 ### Yes.
+Ses04F_script02_1_M026, exc, 174.6300, 183.4200 ### like the swallows returning to Capistrano or the lemmings throwing themselves off the cliffs, like that.  There's mystery here and magic
+Ses02F_impro08_F018, neu, 126.9596, 130.7963 ### Oh, yeah, absolutely.  Um- Would you like window seats or aisles?
+Ses05M_impro06_M007, sad, 75.5800, 81.5100 ### he just did everything.  He was literally, literally the most talented guy I have ever met in my entire life.
+Ses05F_impro04_F014, fru, 138.2800, 145.8900 ### Three years of going out every day--every day--and looking for a job and being constantly denied everywhere I go.
+Ses01M_script02_2_M044, sad, 419.2600, 425.9700 ### No, I know but--I know I don't make you happy.
+Ses04F_script01_2_F002, fru, 16.9400, 20.9300 ### Nobody comes seven hundred miles just to see.
+Ses03M_impro04_F007, sad, 74.0600, 75.6500 ### Yeah.
+Ses05F_impro04_M015, neu, 172.1400, 179.3600 ### If it's rent or something like that, I mean I can help you out a little bit, if- if that will help you you know stick with it.
+Ses01F_script03_2_F022, ang, 160.7500, 163.3800 ### Yes I did, quite a lot.
+Ses03M_script03_2_F043, ang, 299.1200, 303.2773 ### Oh, yes I am. Yes I am and you can't stop me.
+Ses02M_impro05_M008, fru, 74.4500, 81.9200 ### I mean -- I've been away for a while and- and now I've- I've gifts for- for you know friends and family I mean, I got stuff in the there
+Ses02M_script02_2_F020, sad, 196.9300, 202.3400 ### I'd rather not remember some things. I would rather not hope for some things.
+Ses03F_impro08_F016, neu, 104.3700, 106.6300 ### we compensating you for all your-
+Ses04M_impro02_M020, fru, 185.5700, 194.4400 ### I can't do it.  I'd love to.  I mean, I don't - if you understand, I don't want to stay.
+Ses03F_impro07_F014, exc, 81.1366, 83.7094 ### Yeah, why not.
+Ses05F_impro07_F032, exc, 149.5000, 152.3600 ### living near campus, and not going to school.
+Ses03F_impro07_M023, neu, 126.2319, 127.9070 ### Fuck Boston.
+Ses02F_impro08_M001, fru, 9.4065, 17.6256 ### Ok.  I've- I've just been talking to this machine for the past half hour and I can't-can't get anything done.  I've been trying to book this vacation this entire time.
+Ses02M_script01_1_M028, sad, 215.8100, 223.1100 ### I don't know, I'll find out. Then we'll trash it out with dad, right? Mom, don't avoid me.
+Ses05M_script02_1_M029, exc, 276.8500, 285.1000 ### Oh, this is great.  I wouldn't miss this for the world. I mean, think about this, I know you're not interested but just think about this for a second;
+Ses01F_script01_1_F012, fru, 117.8228, 129.5100 ### To you it is, to me it is, but to your father, you can talk yourself until you are blue in the face.  But there is no grave and there is no body, so where are you?
+Ses02M_script03_2_F000, exc, 6.1870, 9.2081 ### You knew there was nothing in that.
+Ses05F_impro04_F041, neu, 365.9100, 368.4600 ### Bartending, catering.
+Ses05M_impro08_F002, fru, 35.2100, 36.1900 ### yeah.
+Ses05M_script02_2_F029, sad, 346.9300, 351.6200 ### But I just couldn't help thinking about being somewhere else.
+Ses01F_script03_2_M022, ang, 145.6700, 152.9500 ### Nonsense.  They have a bag of venom behind their fangs and they snap. They snap.
+Ses03F_script01_1_F017, ang, 136.6033, 145.9638 ### It's those Goddamn newspapers, you know? I mean, it's like every day they come out with this new person that comes along. And the next one's going to be Larry.
+Ses05M_script01_1_M030, fru, 255.4806, 264.7700 ### I know her best, all right?  I don't know.  I grew up next to her.  When I think of somebody for my wife these days, I think of Annie.  What do you want, a diagram?
+Ses02F_impro06_F006, sad, 82.1600, 88.2252 ### I mean, he was like really conscious right up until the end. you know
+Ses03F_impro06_F024, sad, 156.9111, 160.2264 ### He was my brother.
+Ses03M_impro07_M003, exc, 17.1400, 21.0000 ### Me. Yeah, I did.
+Ses02M_script03_1_M022, exc, 131.1199, 135.9153 ### Come kiss me darling before your body rots and worms pop in and out of your eye sockets.
+Ses02M_impro06_F011, sad, 166.6705, 168.5463 ### Yeah.
+Ses05F_impro04_F034, fru, 329.9600, 332.0600 ### Yeah, I follow up.
+Ses05F_impro02_M004, ang, 38.4900, 40.6800 ### You got called up.
+Ses03F_impro05_M010, fru, 124.2382, 130.8736 ### Whoa, maybe you should uh- have thought of a better way to send it than just in a bag, hmm? Did you think about that?
+Ses04F_script01_3_M041, sad, 291.2380, 299.0411 ### I felt wrong to be alive, to open the new bank book, to drive the new car, to see the new refrigerator.
+Ses03M_impro06_F004, sad, 36.8471, 40.2300 ### You guys were real close huh?
+Ses02F_script02_2_F012, fru, 101.2800, 103.8100 ### You don't understand anything I'm saying.
+Ses03M_script01_2_F015, ang, 123.2250, 137.2508 ### Laugh, laugh at me but I will.  Because you know what happened when she came here?  When she came back she slept in his room, the memorial broke into pieces. Joe, look. Look at it. You got to believe with me.
+Ses05F_impro04_F008, ang, 83.8900, 89.8000 ### I still can't live on in six seven and five.  It's not possible in Los Angeles.  Housing is too expensive.
+Ses03F_script01_1_M052, neu, 434.9629, 438.9589 ### I am thinking like that.
+Ses03F_script02_2_M013, fru, 136.0777, 142.7919 ### I've been turning this thing over in my head trying to figure out when the point was when we took a turn for the worse, and I can't seem to pinpoint it.
+Ses03F_impro02_M015, fru, 153.7500, 155.8350 ### [BREATHING]
+Ses03M_impro08a_M003, neu, 43.4794, 46.8315 ### Okay.  And your name is?
+Ses04M_script02_1_F017, ang, 204.0766, 205.5448 ### Yes.
+Ses03F_impro06_M004, sad, 97.6356, 100.7729 ### He was in chemo the whole time, right?
+Ses03F_impro08_F014, neu, 93.5100, 98.2500 ### And we will probably send you a calling card.  I'm very sorry.  You're just going to have to be patient, sir.
+Ses01M_impro07_F022, exc, 132.8600, 138.1200 ### Who do you play? Like do--are you like... nationally ranked?
+Ses04F_script01_1_F035, ang, 290.7700, 293.3190 ### Are you crazy?
+Ses05F_script02_1_M023, exc, 188.2700, 197.4900 ### Okay, but they are fish that do something that no other fish do.  Like the swallows returning to Capistrano, or the lemmings jumping off a cliff you know like that.
+Ses05F_script03_1_M025, exc, 184.3400, 189.2300 ### The one where you bought that little painted wooden snake and put it on my bed.
+Ses03M_impro03_M004, exc, 23.4975, 27.2268 ### Okay we were at Chuck E. Cheese.
+Ses01F_script01_1_F031, fru, 304.2300, 308.9800 ### He thinks he's coming back Chris.
+Ses01M_script01_2_M015, ang, 147.5375, 152.1200 ### What does that mean? Me above all? What does that mean?
+Ses05F_impro01_F014, fru, 130.3000, 134.7700 ### No, they did.  The lady over there told me to stand in this line and I've been here for an hour.
+Ses01F_script03_2_M013, fru, 95.9900, 100.9500 ### Oh.  Don't be so grand.  Just because you don't happen to want one at the moment.
+Ses04M_impro04_F015, neu, 190.5900, 195.4300 ### I think maybe you can't get employed because you aren't willing to take responsibility for your own actions.
+Ses02M_script03_1_M018, exc, 102.7104, 105.5789 ### Yes, yes, with all his might.
+Ses04F_script02_2_M020, neu, 219.5200, 231.5200 ### It was in the car right.  Driving past the Knickerbocker Liquor Locker, you said let's get some champagne and I said times a wasting or something like that.  Right?
+Ses05F_impro04_F030, fru, 312.8700, 316.3300 ### Yeah, and I look nice and I'm you know--
+Ses04M_script01_1_F015, neu, 132.7200, 134.7331 ### Why?
+Ses04M_script02_1_F015, fru, 179.0500, 183.7200 ### This isn't a moon landing we're talking about.  It's fish.  It's fish nobody even eats.
+Ses02M_script02_1_M042, exc, 304.4400, 307.9100 ### Look at me; I'm giving myself goose bumps all my hairs are popping up.
+Ses04M_script02_2_M033, fru, 267.3100, 268.5800 ### Right.
+Ses01F_impro05_F014, ang, 99.5200, 102.9000 ### You're kidding me, this is a joke.
+Ses04F_impro07_F011, exc, 48.0500, 49.8700 ### There we go.  Perfect.
+Ses01F_impro07_M007, exc, 54.1600, 63.2800 ### I am just- Yeah.  I'm sticking around, I'm just doing my thing.  I'm living here.  I'm so glad you're going to stay, I'm so glad you're going to be here. Yeah. Woo.
+Ses05F_script02_2_F032, sad, 358.2843, 374.7917 ### Whatever I am doing, I wanted to be with you.  I mean you are probably the one who wishes you were with somebody else, somebody who didn't take everything so hard and who knows how to enjoy herself.
+Ses01M_impro07_M024, exc, 165.1825, 169.6425 ### For free that's really what it's about. I mean who cares I mean if I have to play softball all the time?
+Ses05F_impro02_F014, fru, 106.6800, 109.9800 ### I know, I know.  It's really, really messed up.
+Ses05M_impro05_M007, neu, 44.7300, 46.1000 ### People lose --
+Ses05M_script01_2_M004, fru, 39.0300, 42.4100 ### Well, so what?
+Ses05F_script03_2_F033, ang, 204.7900, 210.1400 ### Fine, if you insist on being completely insolent.
+Ses05M_impro04_M037, fru, 252.7100, 255.5000 ### No, I just showed that for you [garbage].
+Ses01F_impro06_F023, sad, 223.5200, 227.5500 ### Umm. Yeah.
+Ses04F_impro07_F031, exc, 139.1500, 141.4600 ### Right.  Now you're with me.
+Ses03F_script03_1_F000, neu, 4.8600, 6.5200 ### [BREATHING]
+Ses04M_impro06_M016, sad, 255.5500, 263.2500 ### I hope it rains.  Somehow that'll make me feel more comfortable.
+Ses01F_impro05_M015, neu, 80.2200, 83.2425 ### No, no.  This is real.
+Ses05M_script01_1b_F018, fru, 178.7900, 182.6000 ### I ignore what I got to ignore.  I mean, the girl is Larry's girl.
+Ses05F_impro05_M052, neu, 375.1000, 385.1400 ### Okay, just fill out these three forms, and um- you'll- we'll have that sent to you within the next three weeks and, of course, we'll definitely keep an eye out for your bag.
+Ses05F_script01_3_M033, sad, 319.6242, 333.7856 ### And to show that-to-to bring that back onto the earth again like a- like a monument.  And everyone would have it standing behind them and- and it would make a difference for them.
+Ses04F_script01_2_M008, neu, 59.8500, 62.1900 ### You can't read her mind.
+Ses01M_script02_2_M027, neu, 274.9100, 277.7200 ### You want me to go get some champagne?
+Ses02F_impro06_M018, neu, 196.5253, 210.6666 ### That will be, It'll be--it'll be better that way. I mean Time will tell.  Time heals, you know, and it's good.  It's okay.  I mean, it wasn't anybody's fault or anything like that so .
+Ses02F_impro04_M008, neu, 111.5500, 116.4043 ### I know.  It makes it harder.  I mean it's definitely who you know in a lot of cases, but--
+Ses02F_impro07_M008, exc, 50.0900, 51.4100 ### Yeah
+Ses04M_impro02_M028, fru, 277.8900, 281.3720 ### They won't let you come along.  It's not going to happen.
+Ses04M_impro04_M012, fru, 122.4400, 133.2000 ### -- I mean, I don't understand.  It's like -- I mean, I feel like I'm qualified enough.  I just don't understand.  Like, I mean, it's just like a matter of circumstance, but it's been three years, you know, three years.
+Ses03F_impro06_F025, sad, 160.5379, 169.9277 ### Just seems so unfair, is the way it is.
+Ses05F_script01_1_M010, fru, 87.2500, 93.7000 ### No um, I don't want to argue with him, but it's time we realized that nobody else believes that Larry is alive.
+Ses04F_impro01_F008, ang, 74.6200, 78.7200 ### I've been to the back of the line five times.
+Ses04M_impro02_F011, fru, 110.3200, 120.6400 ### And what happens if, at the end of that year, they ask you to stay longer?  Are you just going to agree?  Are you just going to absentmindedly brainwashedly do whatever it is they tell you to do?
+Ses02F_script01_1_M020, fru, 152.1700, 153.8100 ### I'll go ahead with it?
+Ses03M_script03_2_M025, fru, 160.7628, 162.0759 ### They snap.
+Ses01M_impro01_F010, fru, 56.1600, 58.1800 ### You have a birth certificate?
+Ses05F_script01_1_F030, fru, 284.9400, 294.2000 ### No, I don't want a diagram, but, Chris, your father thinks Larry's coming back.
+Ses03M_impro04_F004, neu, 33.4400, 35.7200 ### Well, okay. Well that's--
+Ses02M_impro01_F024, fru, 154.5392, 157.0808 ### I'm sorry, sir, it's not my choice.
+Ses05M_impro07_M032, exc, 138.1400, 139.4700 ### Really?
+Ses01M_script01_2_M001, neu, 18.1900, 25.3600 ### Well uh, He grew up next door to the girl, why wouldn't he want to see her?
+Ses01F_impro05_M006, neu, 25.9900, 27.7272 ### Okay.
+Ses02M_script02_2_M017, neu, 140.1400, 146.3200 ### okay so I'm getting on my jacket and putting out the animals, getting the car out of the garage-
+Ses02F_script01_3_F025, sad, 215.8937, 217.6679 ### Oh, gee.
+Ses01M_script01_1_M010, fru, 95.9573, 106.3450 ### I just--why shouldn't he walk the nights waiting for him, huh?  Do we contradict him do we say we don't have any hope any more that he's not coming back?
+Ses01F_script01_1_F035, ang, 341.9700, 344.8052 ### What the hell is this?
+Ses05M_script03_2_F021, fru, 121.8400, 123.0985 ### They sting.
+Ses03M_impro08b_F012, fru, 120.2600, 126.6900 ### I don't know even how to use that stuff it's too complicated.  I just want my flip phone to work----that's all I need
+Ses05M_impro05_F005, neu, 34.0400, 41.3900 ### Yeah, well the chances of it being lost forever, you know, are slight because -- -- you were in the --
+Ses02F_script01_3_M029, sad, 247.9400, 261.6500 ### I got this idea watching them go down.  Everything was being destroyed, see, but it seemed that there was one new thing being made.  A sort of responsibility.  Man for man.
+Ses05M_impro07_F037, exc, 158.8000, 160.0000 ### Yeah.
+Ses04M_impro08_M006, neu, 50.5313, 55.7900 ### I am seeing the two hundred dollar charge.
+Ses03M_impro06_F012, sad, 164.0351, 166.3472 ### I know.
+Ses01F_script02_2_F010, ang, 87.7100, 91.3205 ### Twice is every time we have tried; that's ever.
+Ses01F_script01_1_M017, neu, 174.7833, 177.7200 ### So all right then, I'll just go ahead with it?
+Ses05F_impro04_M030, neu, 317.3600, 319.2800 ### putting your best foot forward? or you
+Ses01F_script03_2_M039, ang, 295.9600, 297.4550 ### You're not.
+Ses01F_script03_2_F040, ang, 297.0300, 315.4600 ### Yes I am.   Stop it. Stop it.  Let go of me. Oh.  You're a cruel fiend.  I loathe and I hate you. Marry you again?  Never, never, never. I hope you die in torment, you brute beast cad.
+Ses01F_script03_2_M033, ang, 251.3391, 257.0100 ### Will you turn that off, it's driving me mad.
+Ses04M_script02_2_F029, ang, 268.0800, 271.7300 ### But this isn't anything like I thought anything would be like.
+Ses04F_impro01_F007, fru, 59.7500, 70.7600 ### Okay, that's nice. That's nice but I have done everything you people have told me to do. I don't understand why you can't just help me get this done.  It's simple, right?  License.  I need it. Can we just do this please?
+Ses03M_script01_1_F021, neu, 173.0336, 177.7620 ### Well, I mean, you got to make sure your dad's not going--
+Ses04M_script02_2_M006, ang, 57.5300, 59.2600 ### Well what's bugging you?
+Ses05F_script02_2_F007, fru, 75.3192, 79.2200 ### For heaven's sake Augie, grow up we are not going to see the grunions.
+Ses04F_script03_2_F012, ang, 72.6700, 75.1006 ### It's become a habit with you.
+Ses05M_impro02_M000, sad, 6.9200, 16.3900 ### Sweetheart, I've got to tell you something.  I just got a call.  I'm going to Iraq.
+Ses03M_impro07_M010, exc, 45.4700, 47.1500 ### Holy shit...
+Ses03F_impro05_F008, ang, 89.4307, 92.5106 ### Not to mention I have my work in there.
+Ses02M_script01_1_F029, fru, 253.3200, 260.8900 ### I don't want a diagram. He thinks he's coming back. Chris, you marry this girl you're pronouncing him dead.
+Ses05F_script02_1_M027, fru, 230.4400, 232.3720 ### We weren't in a good spot.
+Ses04F_script01_1_M010, ang, 87.2200, 92.5400 ### I don't want to argue with him but it's time that he realizes that Larry's not coming back anymore.
+Ses05M_impro08_F023, fru, 188.8600, 190.8500 ### It's so frustrating.
+Ses04F_script02_2_F016, fru, 136.3400, 144.9861 ### I did want to see it.  I always do.  I keep thinking that this time will be the time but it never is.
+Ses03F_script01_3_F027, sad, 242.9345, 246.3472 ### You should tell me.
+Ses05M_impro06_M004, sad, 45.1100, 58.4800 ### You know, he was gonna, and we -- all the way up to the end we were just talking about how- you know all the stuff we were gonna do and, you know.  When he finally kicked this stupid cancer, you know, and we were gonna --
+Ses04F_impro05_F009, ang, 75.7800, 98.9200 ### You're kidding me, right.  You're going to give me fifty dollars to completely cover my bag, everything that was in it, the inconvenience that I've gone through.  I paid for my ticket.  All I expect is to safely get to my destination with my stuff.  Is that so much to ask?  I mean I really don't think that's that big a deal to ask you guys to have my bag in the place where I leave and then put my bag where I end up.
+Ses02F_impro08_F026, neu, 200.4894, 205.6457 ### Absolutely. Thank you so much for calling and we hope that you will come to us again.
+Ses03F_impro04_F002, sad, 20.1025, 27.2761 ### I just, I see all these other people getting commercials and work and it's like I'm not getting anything.
+Ses05M_script03_2_M026, ang, 141.9200, 149.3500 ### I'm sure you had a riotous time, no restrain at all, very enjoyable.  You never had much anyway.
+Ses05F_impro07_M018, exc, 81.5700, 88.1600 ### We should try to find, like, a party spot though, like you know where there's going to be a lot of parties, where there are cool people, though.  Do you know any people that might be out there?
+Ses01M_impro04_M014, ang, 119.3100, 120.5900 ### What?
+Ses04F_impro07_M060, neu, 288.7500, 290.9500 ### I just said the library
+Ses04M_script01_3_M034, sad, 291.0600, 305.6300 ### to open that bank book; to drive the new car; to see the new refrigerator.  I mean, you can take these things out of a war, but when you drive the new car, you have to know that it came out of the love a man can have for a man.
+Ses04F_impro04_M006, neu, 74.4800, 77.5500 ### Look bananas don't grow overnight.  Okay.
+Ses01M_script01_2_M017, ang, 163.3800, 167.4300 ### What the hell do you want from me, Kate?
+Ses04F_script02_1_M025, fru, 171.4800, 174.6000 ### Okay but it's fish who do something none of the other fish do
+Ses01M_impro01_M007, fru, 38.3300, 40.2700 ### I have it right here, yes.
+Ses03F_impro06_F016, sad, 109.2504, 113.9007 ### So handsome, so young, so gifted.
+Ses01M_script03_2_M025, ang, 200.0078, 203.7500 ### Did you see much of Peter Burden after our divorce?
+Ses02F_script03_1_M020, exc, 112.7900, 118.2800 ### No. No, it isn't.  Death is very laughable.  Such a cunning little mystery.  All done with mirrors.
+Ses03F_script01_1_F029, fru, 225.0355, 227.5262 ### What do you want from me?
+Ses05F_script01_2_F007, fru, 52.1900, 61.8200 ### She's . . . Then why is she still single.  New York is full of men, why isn't she married?  Probably a hundred people told her she's foolish, but she's waited.
+Ses05M_impro05_F002, neu, 19.1100, 20.4800 ### Uh-Hmm.
+Ses02M_script03_2_M010, neu, 55.2122, 57.5821 ### I have a little I think.
+Ses05F_impro07_M025, exc, 122.6500, 128.7700 ### I know exactly how you feel about that. I think you feel really excited about it.  I know you are. I can tell. I know you.
+Ses03M_impro08b_M016, neu, 157.4800, 160.8700 ### Go in there, yeah, go in there.  Tell them Brent Backersen sent you.
+Ses05M_script02_2_M026, ang, 297.2600, 302.6900 ### Because you know what you get, Carla?  You know what you get?  This.
+Ses02F_impro03_M017, neu, 164.5900, 166.0400 ### Spring's nice though.
+Ses04F_impro04_F033, fru, 262.7000, 265.4300 ### That's important.  That's really important.
+Ses01F_script03_2_M009, fru, 67.0600, 74.0100 ### So am I.  I'm bored stiff. [GARBAGE]  Do you want some brandy?
+Ses05M_script01_1b_M041, ang, 372.5900, 377.3700 ### No, you don't.  I'm a pretty tough guy.
+Ses04M_impro07_M026, neu, 173.1500, 179.0100 ### No, no, I mean, I didn't know -- I didn't know that about you. Um, I feel like --
+Ses04M_script03_1_F022, exc, 173.6400, 175.6100 ### Which particular one?
+Ses01F_script02_2_M047, neu, 449.3991, 453.6338 ### Do you want to go home?  Are you cold?
+Ses04M_impro05_F024, fru, 190.9700, 194.7700 ### No one can make the three check thing happen 'cause we don't do that.
+Ses01F_impro02_F014, sad, 139.0300, 146.4300 ### Maybe you can send it to me, like stream it, yeah?
+Ses02F_script01_3_M034, sad, 320.8300, 330.7300 ### Because otherwise all you have is really loot and there's blood on it.  And I didn't want to take any of it.  And I guess that included you.
+Ses04F_impro08_F007, fru, 90.8100, 95.3100 ### Did you try to take them back and get your order fixed, sir?
+Ses01M_script02_2_M029, neu, 283.5959, 288.0578 ### What? Huh?
+Ses03M_script02_2_F027, fru, 253.1456, 254.8314 ### No.
+Ses04M_impro05_M027, fru, 194.6700, 198.6700 ### But what I'm talk -- but I'm just,just- please let me--
+Ses03F_script03_2_M035, neu, 248.9800, 251.3625 ### This is no time of the year for Tunis.
+Ses05F_impro05_F042, ang, 355.7600, 358.7800 ### It's not like I can go to Kmart and buy another.
+Ses05F_script01_2_M000, neu, 7.1900, 9.3200 ### Why does that bother you?
+Ses02M_script02_2_M010, neu, 78.8100, 81.0100 ### Well, we'll see them this year.
+Ses03F_script02_1_M040, exc, 327.1329, 335.1200 ### its single-mindedness with one mind. Urgency that's pure urge. You know, they don't give it a name.
+Ses01F_script01_1_F041, ang, 394.9100, 404.6900 ### All right.  But you don't want to think like that because what the hell are we working for, Chris?  It's all for you.  This whole shooting match is for you.
+Ses02M_script02_2_M006, fru, 53.3600, 55.2400 ### Well, what's bugging you?
+Ses04F_impro03_F018, exc, 96.5100, 103.3300 ### Okay.  It's going to be in, like, six months.  So we don't have a really long time.
+Ses05F_impro05_M004, neu, 33.9900, 37.9253 ### Okay.  Well, let me see here. I-
+Ses05M_impro01_F021, ang, 132.8200, 137.3100 ### I'm gonna- I'm gonna bring security over and have them escort you out.
+Ses05F_impro03_F003, exc, 11.5800, 12.7187 ### Yeah.
+Ses03M_impro05a_F014, neu, 90.9925, 92.2100 ### Yes--it is
+Ses04M_impro04_M010, fru, 113.3800, 115.6100 ### I'm not choosing. I'm not-
+Ses05F_script02_2_F010, fru, 89.4541, 107.1645 ### No, we won't.  Augie it's like waiting for Santa Claus to come.  I feel like I am going to spend my entire life standing on the beach with my eyes wide open and my hands clasp expectantly in front of me waiting for the fish to show up and the fish will not show up.
+Ses02M_impro08_M011, neu, 103.2505, 112.7768 ### Yes, we'll get- we'll get rid of it right now. I mean just we're going to have to have you, um, submit something you know, we're going to have to have you mail something in for us, okay.
+Ses01F_script01_1_M034, neu, 344.4966, 350.1500 ### I'll get out.  I'll get married and I'll move somewhere else, maybe New York.
+Ses02M_impro03_F007, exc, 40.5591, 44.4238 ### I would have thought you would have told me that you were planning on doing this.
+Ses01F_script03_2_F034, ang, 246.5557, 251.6118 ### Fine if you insist on being boorish and idiotic.
+Ses04F_script03_2_F025, ang, 141.4838, 145.4300 ### You're quite insufferable.  I expect it's because you're drunk.
+Ses05M_impro08_M025, neu, 195.6700, 202.3700 ### Uh huh Uh huh We want you to be happy.  You're our customer.  You're the most important thing. Okay?
+Ses01F_script01_2_F008, ang, 67.4800, 78.2600 ### Because she knows what I know, that's why.  She's faithful as a rock.  In my darkest moments, I think of her waiting and I know that I'm right.
+Ses01F_script01_1_M039, neu, 387.5000, 390.1100 ### On this, I would.
+Ses01F_script01_1_M032, fru, 325.7300, 336.5389 ### I've given it three years of thought.  And I'd hope that if I waited, father would forget about Larry and then we could just have a regular wedding and everyone would be happy.
+Ses05F_impro02_F012, sad, 88.3300, 93.3000 ### I think infantry.  I'm not sure.
+Ses03M_impro02_F015, sad, 93.6780, 97.4785 ### It's not the same thing.  It's not like having you here.
+Ses05F_impro06_M014, sad, 129.2400, 133.9100 ### Of course not.  You have no idea what it's like to lose a kid.
+Ses02F_impro08_F013, neu, 99.3367, 107.9377 ### So, you will absolutely be in a high rated great hotel and we can make sure that it's in a area of town that you like as well.
+Ses01M_impro07_F015, exc, 88.4125, 92.4100 ### I don't know. Commuting from what Malibu that would be ridiculous.
+Ses05M_impro04_F015, neu, 143.3600, 146.0100 ### I don't know.  I'm I'm just trying --
+Ses04M_script01_3_M022, sad, 169.8100, 174.8874 ### Yes, I suppose there has been.  But it's going from me.
+Ses02F_impro07_F009, exc, 48.3700, 52.6300 ### and like-- The football team--And like all the-...you- what I mean, like...
+Ses04F_impro01_M023, ang, 148.6900, 151.2100 ### You're testing my goddamn patience.
+Ses05M_impro07_M001, exc, 6.4900, 9.0600 ### I got it.  I got accepted to U.S.C..
+Ses02F_impro05_M014, neu, 182.6000, 189.6500 ### No, um, like I said you can file a claim and, uh, maybe get reimbursed for more-- you
+Ses03M_script01_3_M037, sad, 329.6400, 341.5275 ### And I went to work with dad and that rat race again and I felt what you said, ashamed.  Somehow because nobody was changed at all.
+Ses05F_impro01_F020, ang, 160.0100, 164.8200 ### Right, well, last time they told me, it was this line, and obviously, it's not true.
+Ses05F_script02_2_M024, fru, 242.8661, 249.4500 ### A vacation? A new carpet, a poodle?  A bag of ice cream, a suicide pack, what what Carla?  What the hell do you want?
+Ses03M_impro01_M001, fru, 14.6863, 19.6199 ### It's not a demand it's a request.  Will you just take it?  Come on.
+Ses04F_impro07_F038, exc, 186.9500, 189.6600 ### On occasion I've heard of it.
+Ses05M_script03_1_M025, exc, 180.8000, 186.2300 ### Do you remember that awful scene we had in Venice?
+Ses01M_script01_1_F026, neu, 247.1332, 251.1095 ### Did you ask Annie yet?
+Ses05F_impro03_F001, exc, 7.9600, 9.8400 ### I'm getting married.
+Ses04M_script01_1_F028, neu, 218.9100, 222.0700 ### The trouble is, you don't see enough women.  You never did.
+Ses02M_script01_1_F018, neu, 154.5400, 158.0500 ### Well, you want to make sure that your father isn't-
+Ses01F_script01_2_F005, ang, 47.1000, 50.8500 ### What is going on here, Joe?
+Ses01F_impro01_M009, fru, 65.5100, 73.0000 ### A birth certificate, a passport...a student ID; didn't you go to school?  Anything?
+Ses04F_impro04_F001, fru, 15.8500, 25.2200 ### I just don't think I can do this anymore.  It's been a really long time and it's not like I'm not trying.
+Ses03M_impro08b_M020, neu, 188.8500, 191.0600 ### and battling through with us.
+Ses04M_impro06_F016, sad, 265.5400, 270.3748 ### Seems like if the whole world's sad, then it's okay for you to be.
+Ses03F_impro06_F000, sad, 8.3440, 12.1707 ### Okay.
+Ses03M_impro01_M029, ang, 155.8293, 158.2325 ### What is wrong with you?
+Ses04F_impro03_M028, neu, 157.4700, 158.6800 ### Blue?
+Ses03F_script02_2_M032, fru, 312.0529, 313.7981 ### Right.
+Ses02M_impro03_F024, exc, 158.8655, 164.7588 ### Golly, it just makes me all like romantic inside, like I really want that to happen to me. [LAUGHTER]
+Ses04M_impro05_F026, fru, 197.1800, 202.9500 ### All- all that my supervisor could do is the exact same thing that I'm offering to do.
+Ses02F_script03_1_F017, neu, 103.0200, 109.2400 ### Well, what happens if one of us dies?  I mean, does the one that's left still laugh?
+Ses04M_impro01_M006, fru, 52.3200, 55.2000 ### are you telling me you don't have a stack of them behind the desk?
+Ses05M_script02_1_F019, fru, 254.6000, 257.1800 ### We didn't see them the first time either.
+Ses04F_script01_2_M007, neu, 47.6359, 57.5912 ### Uh, Then why is she still-she's not his girl, Joe
+Ses05M_script02_1_M030, exc, 285.1312, 319.2700 ### somewhere out there is a giant mass of silver fish all swimming in this direction.  They don't know why they're doing it.  We don't know why they're doing it.  They didn't- It wasn't a decision.  No one took a vote.  Nobody sent them an invitation or a map or anything like that.  It was just some internal time release fire cracker that went off. And all as one they turned around and formed this giant line as long as the California coastline and they just started swimming.  They are swimming right now at this very moment.   And And-
+Ses01F_script03_2_M011, neu, 81.3800, 84.9165 ### No particular reason.  Anyhow, they are very small ones.
+Ses05F_script01_1_F034, ang, 328.2100, 330.0200 ### Are you crazy?
+Ses01M_script01_3_M022, sad, 244.1400, 252.9200 ### I don't know it's--it's complicated. But it's going from me now.
+Ses01F_impro07_M002, exc, 13.9200, 19.0900 ### Oh my God. What are you going to do? [LAUGHTER]
+Ses03M_impro05b_M028, fru, 197.2300, 203.4700 ### Two days I'll be in San Diego and how's it going to get to me in San Diego?  You going to make sure it gets to the San Diego airport?
+Ses05M_script01_1_F037, fru, 346.2700, 348.7900 ### I don't understand you, do I?
+Ses02F_impro01_M011, fru, 88.6926, 97.7625 ### I make an exception for you and I have to make an exception for everyone.  I mean, I-I've seen this before and I know it's frustrating, but there's nothing I can do. You just have to-
+Ses01M_impro06_F024, neu, 200.3676, 203.1600 ### How long did you know each other?
+Ses01M_impro03_M014, neu, 87.4200, 90.9600 ### Yeah.  Make her like open the bank account and stuff too.
+Ses01M_impro04_F013, neu, 120.2200, 125.2400 ### Well, you know a little.  If you were to listen to--
+Ses04F_impro01_M006, fru, 56.1881, 60.0200 ### and I got to - i got to work here all day long.  Okay.  I've got to deal with you people all day.
+Ses02M_impro08_F027, neu, 208.1123, 209.3096 ### Yeah, totally.
+Ses01M_impro05_M005, ang, 31.7800, 34.8300 ### Listen, shut your smug mouth, okay?  I don't need that.
+Ses02F_script01_2_F015, fru, 100.9600, 106.1200 ### Last week, a man turned up in Detroit missing longer than Larry.  I mean, you read it yourself.
+Ses03F_script01_3_M031, sad, 263.5792, 266.6760 ### Just about all.
+Ses04F_impro06_F002, sad, 77.8679, 100.0500 ### I just- I just thought he would have longer, you know, because I'm- I mean when he found out he was sick, we knew that wasn't good but I just- I just thought that it would take longer, you know?
+Ses03F_impro02_F005, exc, 31.4600, 32.5950 ### oh.
+Ses05M_script01_1_M021, ang, 164.3800, 170.8100 ### You infuriate me sometimes.  Do you know that?  God.
+Ses05M_script03_1_M003, neu, 14.0600, 17.1100 ### We're all right, aren't we, darling, whatever happens?
+Ses04M_impro02_M006, fru, 56.5800, 61.5500 ### I've made a pledge.  I can't not do this at this point.
+Ses02F_script03_1_M017, neu, 96.2300, 99.7400 ### No, that desire will fade.  Along with our passion.
+Ses03M_impro04_M008, ang, 82.1100, 85.0500 ### I'm smarter than half the people I work for.
+Ses04F_impro05_M002, fru, 14.2500, 20.2200 ### Where?  Did you do it at the front desk or by the baggage claims?
+Ses03M_impro08b_F015, fru, 151.3900, 155.5200 ### I, I, I don't want a contract. Okay. I don't want any contracts.
+Ses02M_impro03_F005, exc, 31.1617, 32.9110 ### That's like the most definitive.
+Ses03F_script01_3_M041, sad, 376.7750, 381.1071 ### Otherwise, what you have here is loot; and there's blood on it.
+Ses04M_impro05_F018, fru, 139.2728, 142.6700 ### We really -- we want to work with you. We really -- we want to help.
+Ses04M_script03_1_M033, neu, 226.9000, 231.7100 ### As a matter of fact, the real cause of that row was Peter Burden.
+Ses01M_impro07_F016, exc, 95.2600, 101.5000 ### Oh yeah. He'd drop you right off at practice?
+Ses03F_impro02_F023, sad, 156.3250, 158.6525 ### Babe, I love you.
+Ses02F_script03_2_M011, neu, 63.2000, 66.6400 ### No particular reason.  Anyhow they were very small ones.
+Ses03M_script01_1_M024, fru, 217.5225, 222.9188 ### I don't know why it is but every time I reach out for something I want I have to pull back
+Ses01F_impro06_M005, neu, 86.9600, 88.6300 ### Oh.  She was there?
+Ses01F_script03_2_F035, ang, 256.4800, 260.4175 ### You are far too temperamental, try to control yourself.
+Ses05F_impro04_F039, neu, 357.0300, 359.6600 ### But um--
+Ses02M_impro01_F008, fru, 54.9400, 58.3100 ### you need to bring two forms of ID there is nothing we can do about it.
+Ses01M_script01_3_M016, exc, 175.3300, 178.0700 ### why didn't you let me know?
+Ses01F_impro05_F021, ang, 155.6000, 160.3600 ### You are cruising for a bruising.  You are in so much trouble.
+Ses04M_script03_1_M013, ang, 70.2600, 84.4500 ### All the futile moralists who try to make life unbearable.  Laugh at them.  Be flippant.  Laugh at everything.  All their sacred shibboleths.  Flippancy brings out the acid- acid in their damn sweetness and light.
+Ses01F_script03_2_F017, ang, 128.7100, 130.4800 ### No it isn't.
+Ses02F_script02_1_M019, neu, 113.3000, 114.1900 ### Right.
+Ses05M_script01_1b_F037, fru, 370.8700, 373.0100 ### I don't understand you, do I?
+Ses01M_script03_2_M031, ang, 250.6300, 253.9800 ### That's a very good idea I think I will.
+Ses03F_script01_2_M005, fru, 42.0286, 44.6116 ### Listen, kid-
+Ses03F_script02_2_F027, sad, 239.2147, 241.1296 ### No.
+Ses01F_impro01_M002, fru, 16.8352, 19.7175 ### Who told you to get in this line?
+Ses03F_script01_3_M036, sad, 306.8325, 320.1207 ### Everything was being destroyed, see, but there was one new thing that was being created. A kind of responsibility, man for man. You understand me?
+Ses02F_script02_2_F001, fru, 9.5015, 11.2600 ### It's ridiculous.
+Ses01M_impro04_M023, ang, 172.3400, 178.6430 ### I'm like a sponge I'm like soaked up with all this information for like three years I'm just dying for a job to like put it in to.
+Ses01F_script02_1_F021, fru, 210.6400, 211.9200 ### Yeah.
+Ses01M_impro04_M018, ang, 139.4600, 147.2000 ### Okay. Okay no, no, no, no okay no, I need to hear this more. Come on, bring it.
+Ses02M_impro01_F006, neu, 38.8667, 44.0823 ### Um, that you would need to go home and get another form of ID and come back.
+Ses02F_impro08_F012, neu, 86.4414, 99.3203 ### Yes, I completely understand.  Actually, our-our airline only uses five star hotel and above.  Except we charge at a three star hotel rate because, as a corporation, we are able to get a deal from the hotels themselves.
+Ses05M_script03_1_F011, neu, 71.0600, 74.0200 ### Don't laugh at me.  I'm serious.
+Ses03F_impro08_M007, ang, 56.8557, 58.7900 ### -have to, have to what?
+Ses02M_script03_2_M001, ang, 8.0684, 11.7227 ### I knew nothing of the sort. You took presents from him.
+Ses01F_impro01_F013, fru, 93.6700, 97.0218 ### How long have you been working here?
+Ses04F_impro07_F015, exc, 66.2900, 68.7900 ### U.S.C. has a major in that, right.
+Ses04M_impro08_F012, fru, 95.8300, 100.7668 ### of the money that I was charged that I didn't make those calls.
+Ses01F_script01_1_M030, fru, 297.0000, 300.0700 ### Mom, what do you want?  A diagram?
+Ses01M_script02_2_M028, neu, 279.5359, 282.4301 ### Do you want to take off our shoes?
+Ses02M_script02_1_M024, exc, 143.9900, 152.0100 ### Think about the people in Kansas, they- they'd have to get a plane ticket and hotel reservations to see this. We live forty minutes away it's too good to pass up.
+Ses03M_script02_1_M040, exc, 328.9100, 335.6750 ### They just start swimming to this place right here where we stand for massive celebration of sex and death.
+Ses05M_impro04_M008, neu, 69.6000, 73.0100 ### You plan on being there forever? I mean, Like, what do you --
+Ses05M_impro04_F013, neu, 134.6000, 136.2300 ### Maybe [garbage].
+Ses04F_impro02_F002, sad, 31.8500, 42.0800 ### I don't know what to say.  I don't want to go but I don't have a lot of choice.
+Ses04M_impro02_M003, fru, 29.2675, 34.1500 ### It's -- look, it's only a year.  It'll go by quickly.  Okay.
+Ses04F_script01_3_M033, sad, 236.3300, 244.9709 ### They didn't die.  They killed themselves for each other.  I mean that exactly.  A little more selfish and they'd have been here today.
+Ses03M_impro07_M009, neu, 38.2700, 39.7700 ### What does that mean?
+Ses01M_impro03_F014, exc, 92.8700, 96.1300 ### Dude, you lucked out.
+Ses01F_script03_2_M018, neu, 126.1529, 129.1350 ### Well as a matter of fact, yes, that's perfectly true.

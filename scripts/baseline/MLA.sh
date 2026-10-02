@@ -1,0 +1,4 @@
+python -u train_MLA2.py --train --ckpt_path ckpt_MLA/CREMAD --gpu_ids 0 --batch_size 64 --modulation Normal --epochs 10 --dataset CREMAD --gs_flag --Use_initWeight True --alpha 2
+python -u train_MLA2.py --train --ckpt_path ckpt_MLA/AVE --gpu_ids 0 --batch_size 64 --modulation Normal --epochs 10 --dataset AVE --gs_flag --unified_dim 512 --fps 2 --alpha 2
+python -u train_MLA2.py --train --ckpt_path ckpt_MLA/MVSA --gpu_ids 0 --batch_size 64 --modulation Normal --epochs 10 --dataset MVSA --gs_flag --unified_dim 768 --model_name '["Image","Text"]' --learning_rate 1e-5 --alpha 2
+python -u train_MLA2.py --train --ckpt_path ckpt_MLA/IEMOCAP3 --gpu_ids 0 --batch_size 64 --modulation Normal --epochs 10 --dataset IEMOCAP3 --gs_flag --unified_dim 768 --model_name '["Text","Visual","Audio"]' --learning_rate 1e-3 --alpha 1
