@@ -1,7 +1,10 @@
 # Adaptive-Margin Masking and Restoration for Balanced Multimodal Learning (AMRe)
 
 <div align="center">
-[![NeurIPS 2026](https://img.shields.io/badge/NeurIPS%202026-Poster-red.svg)](https://nips.cc/)[![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)[![PyTorch 2.2+](https://img.shields.io/badge/PyTorch-2.2%2B-ee4c2c.svg)](https://pytorch.org/)[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![NeurIPS 2026](https://img.shields.io/badge/NeurIPS%202026-Poster-red.svg)](https://nips.cc/)
+[![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
+[![PyTorch 2.2+](https://img.shields.io/badge/PyTorch-2.2%2B-ee4c2c.svg)](https://pytorch.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 </div>
 
 Official PyTorch implementation of the **NeurIPS 2026 (Poster)** paper: 
