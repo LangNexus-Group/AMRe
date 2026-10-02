@@ -1,26 +1,14 @@
 # Adaptive-Margin Masking and Restoration for Balanced Multimodal Learning (AMRe)
 
-<div align="center">
-[![NeurIPS 2026](https://img.shields.io/badge/NeurIPS%202026-Poster-red.svg)](https://nips.cc/)[![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)[![PyTorch 2.2+](https://img.shields.io/badge/PyTorch-2.2%2B-ee4c2c.svg)](https://pytorch.org/)[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-</div>
-
-
-*Official PyTorch implementation of the **NeurIPS 2026 (Poster)** paper:*  
-**"Adaptive-Margin Masking and Restoration for Balanced Multimodal Learning"**
-
-
-
----
-
-## 📢 News
-- **[2026-10]** 🎉 Our paper has been accepted by **NeurIPS 2026 (Poster)**!
-- **[2026-10]** 🚀 Code, reproduction scripts, and hyperparameter recipes across audio-visual, visual-text, tri-modal, and MLLM benchmarks are released.
-
----
-
-## 📌 Overview
-
-Multimodal learning seeks to harness complementary signals from heterogeneous sensory streams. However, in practice, joint multimodal networks often suffer from **modality laziness**, where one dominant modality converges rapidly and dominates the optimization trajectory, thereby suppressing the representation learning and contribution of other subordinate (lazy) modalities.
+<p align="center">
+  <a href="https://nips.cc/"><img src="https://img.shields.io/badge/NeurIPS%202026-Poster-red.svg" alt="NeurIPS 2026"></a>
+  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3.10%2B-blue.svg" alt="Python 3.10+"></a>
+  <a href="https://pytorch.org/"><img src="https://img.shields.io/badge/PyTorch-2.2%2B-ee4c2c.svg" alt="PyTorch 2.2+"></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License: MIT"></a>
+</p>
+> Adaptive-Margin Masking and Restoration for Balanced Multimodal Learning (AMRe)
+>
+> Guangbin  Zhang, Zheyang luo, Jiangming liu [link]()
 
 <p align="center">
   <img src="fig2.png" alt="Overview of AMRe" width="92%"/>
@@ -28,10 +16,21 @@ Multimodal learning seeks to harness complementary signals from heterogeneous se
   <em>Figure: The overall architecture and workflow of AMRe. <b>(Left) Full Optimization (Restoration)</b>: All modalities are jointly optimized to recover unimodal expressiveness and maintain representation stability. <b>(Right) Masking Optimization</b>: The Adaptive-Margin Modality Identification module assesses laziness via incorrectness and uncertainty, selectively masking the dominated modality to force lazy modality optimization.</em>
 </p>
 
-###  Pitfalls in Existing Paradigms
+
+
+---
+
+## 📌 Overview
+
+Multimodal learning seeks to harness complementary signals from heterogeneous sensory streams. However, in practice, joint multimodal networks often suffer from **modality laziness**, where one dominant modality converges rapidly and dominates the optimization trajectory, thereby suppressing the representation learning and contribution of other subordinate (lazy) modalities.
+
+
+### Pitfalls in Existing Paradigms
 Existing remedies (such as gradient modulation or alternating optimization) face two fundamental limitations:
 1. **Incomplete and Overly-Sharp Identification**: Relying on a single metric (e.g., loss alone or uncertainty alone) frequently misclassifies modalities with low error but high uncertainty (or vice versa). Furthermore, hard decision boundaries introduce severe optimization noise for ambiguous samples situated near the threshold.
 2. **Lagging of Dominated Modality (Feature Degradation)**: Continuous suppression or prolonged skipping of dominant modalities blocks their gradient updates, ultimately causing feature degradation and undermining the joint representation.
+
+
 
 ---
 
@@ -143,8 +142,6 @@ bash scripts/baseline/Remix.sh
 bash scripts/baseline/Resample.sh
 bash scripts/baseline/amst_full.sh
 ```
-
----
 
 ## 📜 Citation
 
