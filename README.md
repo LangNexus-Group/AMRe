@@ -47,7 +47,7 @@ Evaluated across audio-visual (**CREMA-D**, **AVE**), visual-text (**MVSA-Single
 | **OPM** (TPAMI'24) | Joint Opt | 78.76% | 74.38% | 73.39% | 65.83% | 72.99% |
 | **MLA** (CVPR'24) | Alternating | 76.48% | 75.62% | 75.26% | 67.01% | 73.59% |
 | **Resample** (CVPR'24) | Alternating | 75.00% | 71.89% | 74.43% | 66.57% | 71.98% |
-| **Remix** (arXiv'25) | Alternating | 74.52% | 72.69% | 74.01% | 67.16% | 72.10% |
+| **Remix** (ICML'25) | Alternating | 74.52% | 72.69% | 74.01% | 67.16% | 72.10% |
 | **AMST** (ECML-PKDD'25)| Alternating | 80.50% | 74.38% | 72.60% | 68.40% | 73.97% |
 | **AMRe (Ours)** | **Adaptive Masking** | **81.18%** | **76.37%** | **75.68%** | **68.93%** | **75.54% (+4.30%)** |
 
