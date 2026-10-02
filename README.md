@@ -6,9 +6,9 @@
   <a href="https://pytorch.org/"><img src="https://img.shields.io/badge/PyTorch-2.2%2B-ee4c2c.svg" alt="PyTorch 2.2+"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License: MIT"></a>
 </p>
-> Adaptive-Margin Masking and Restoration for Balanced Multimodal Learning (AMRe)
+> **Adaptive-Margin Masking and Restoration for Balanced Multimodal Learning (AMRe)**
 >
-> Guangbin  Zhang, Zheyang luo, Jiangming liu [link]()
+> Guangbin  Zhang, Zheyang luo, Jiangming liu 
 
 <p align="center">
   <img src="fig2.png" alt="Overview of AMRe" width="92%"/>
