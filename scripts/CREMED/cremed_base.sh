@@ -12,7 +12,7 @@ LR_A=1e-3
 ALPHA=2
 LR_DE_ST=50
 LR_DE_RA=0.1
-AME_BETA=0
+AME_BETA=0.1
 AME_GAMA=0.15
 WARMUP_EPOCH=0
 RANDOM_SEED=42
@@ -94,43 +94,8 @@ for FUSION in "${FUSIONS[@]}"; do
         --weight_decay $WEIGHT_DECAY \
         --lr_decay_ratio $LR_DE_RA \
         --lr_decay_step $LR_DE_ST \
-        --ame_gap 2 \
+        --ame_gap 4 \
         --ame_gap_start 1 \
-        
-    
-    #     # --Use_OGM True \
-
-    # # ======================================
-    # # 2. Use Shapley (MaskType=Shapley)
-    # # ======================================
-    # SAVE_NAME="${FUSION}_Shapley"
-    # echo -e "\n=================================================="
-    # echo "🔧 Starting execution: Fusion method = $FUSION | Shapley used"
-    # echo "📁 Model save path: ./checkpoint/$DATASET/$SAVE_NAME"
-    # echo "=================================================="
-    
-    # CUDA_VISIBLE_DEVICES=0 python -u ./train_all.py \
-    #     --random_seed $RANDOM_SEED \
-    #     --dataset $DATASET \
-    #     --train \
-    #     --epochs $EPOCH \
-    #     --fusion_method $FUSION \
-    #     --model_name $MODEL_NAME \
-    #     --MaskType 'Shapley' \
-    #     --alpha $ALPHA \
-    #     --ame_gama $AME_GAMA \
-    #     --ame_beta $AME_BETA \
-    #     --unified_dim $UNIFIED_DIM \
-    #     --learning_rate_fusion $LR_F \
-    #     --learning_rate_audio $LR_A \
-    #     --learning_rate_text $LR_T \
-    #     --learning_rate_visual $LR_V \
-    #     --model_save_name "${FUSION}_with_Shapley" \
-    #     --ckpt_path "./checkpoint/$DATASET/$SAVE_NAME" \
-    #     --warmup_epoch $WARMUP_EPOCH \
-    #     --optimizer $OPTMIZER \
-    #     --Use_initWeight True \
-    #     # --Use_OGM True \
 
 
 done
