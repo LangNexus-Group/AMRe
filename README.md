@@ -10,7 +10,8 @@
 
 > **Adaptive-Margin Masking and Restoration for Balanced Multimodal Learning (AMRe)**
 >
->  Guangbin  Zhang, Zheyang luo, Jiangming liu
+> Guangbin Zhang, Zeyang Luo, Jiangming Liu\*  
+> *School of Information, Yunnan University*
 
 
 <p align="center">
@@ -54,7 +55,7 @@ Evaluated across audio-visual (**CREMA-D**, **AVE**), visual-text (**MVSA-Single
 | **AMST** (ECML-PKDD'25)| Alternating | 80.50% | 74.38% | 72.60% | 68.40% | 73.97% |
 | **AMRe (Ours)** | **Adaptive Masking** | **81.18%** | **76.37%** | **75.68%** | **68.93%** | **75.54% (+4.30%)** |
 
-> **Note on Efficiency**: AMRe introduces less than **1.5% additional training latency** over vanilla Concat on a single NVIDIA V100 GPU (e.g., +0.21s/epoch on CREMA-D, +0.31s/epoch on IEMOCAP), achieving SOTA accuracy with near-zero computational overhead.
+> **Performance & Efficiency**: Across diverse multimodal data categories (audio-visual, visual-text, and tri-modal tasks), AMRe achieves an overall average accuracy gain of **+4.30%** over the Concat baseline (from 71.24% to 75.54%), with improvements reaching up to **+7.66%** on audio-visual data, **+2.50%** on visual-text data, and **+3.55%** on tri-modal data. Meanwhile, it introduces less than **1.5% additional training latency** on a single NVIDIA V100 GPU (e.g., +0.21s/epoch on CREMA-D, +0.31s/epoch on IEMOCAP).
 
 ### 2. Generalization to Multimodal Large Language Models (MLLMs / Ola-7B)
 AMRe seamlessly integrates into modern MLLMs (Ola-7B), consistently boosting multimodal understanding:
@@ -82,7 +83,6 @@ AMRe seamlessly integrates into modern MLLMs (Ola-7B), consistently boosting mul
 │   ├── CREMED/cremed_base.sh
 │   ├── IEMOCAP3/IEMOCAP3_base.sh
 │   ├── MVSA/MVSA_base.sh
-│   ├── baseline/          # Benchmark scripts for MLA, Remix, Resample, AMST
 │   └── Ola.sh             # MLLM adaptation script
 ├── train_all.py           # Standard training pipeline
 ├── train_all_OLA.py       # Training pipeline with Ola-7B
@@ -138,13 +138,9 @@ bash scripts/IEMOCAP3/IEMOCAP3_base.sh
 
 # Multimodal LLM (Ola-7B)
 bash scripts/Ola.sh
-
-# Compare with baselines
-bash scripts/baseline/MLA.sh
-bash scripts/baseline/Remix.sh
-bash scripts/baseline/Resample.sh
-bash scripts/baseline/amst_full.sh
 ```
+
+---
 
 ## 📜 Citation
 
